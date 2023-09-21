@@ -1,0 +1,10 @@
+1, Abono orgánico, Abono a base de materia orgánica, Mejora la estructura del suelo y promueve el crecimiento de las plantas, 7000
+2, Abono químico NPK, Abono a base de nutrientes químicos, Proporciona nitrógeno fósforo y potasio esenciales para el crecimiento de las plantas, 10000
+3, Compost, Mezcla de materia orgánica descompuesta, Enriquece el suelo y mejora la retención de agua, 6000
+4, Humus de lombriz, Abono rica en nutrientes producido por lombrices, Aumenta la fertilidad del suelo y mejora la estructura, 12000
+5, Abono de liberación lenta, Abono granular de liberación gradual de nutrientes, Proporciona una alimentación constante a las plantas, 15000
+6, Abono líquido, Abono en forma líquida para aplicación foliar o riego, Rápida absorción de nutrientes, 8000
+7, Abono de guano de murciélago, Abono rico en nutrientes de origen animal, Mejora la fertilidad del suelo y promueve el crecimiento, 20000
+8, Abono de algas marinas, Abono a base de algas marinas, Aumenta la resistencia de las plantas al estrés y promueve el desarrollo de raíces, 14000
+9, Abono de pelo de caballo, Abono orgánico a base de pelo de caballo, Mejora la estructura del suelo y aporta nutrientes, 9000
+10, Abono de ceniza de madera, Abono hecho de ceniza de madera, Aporta potasio y otros minerales al suelo, 5000

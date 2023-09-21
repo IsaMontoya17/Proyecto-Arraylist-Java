@@ -1,0 +1,18 @@
+1, Girasol, agua y sol, solar, 35000 
+2, Lavanda, poca agua y mucho sol, solar, 42000 
+3, Helecho Boston, humedad y luz indirecta, sombra, 28000 
+4, Suculenta de Jade, riego moderado y luz indirecta, solar, 52000 
+5, Orquídea, humedad y luz indirecta, sombra, 70000 
+6, Rosa, agua regular y mucho sol, solar, 63000 
+7, Violeta Africana, riego moderado y luz indirecta, sombra, 24500 
+8, Cactus, poco riego y mucho sol, solar, 17500 
+9, Ficus, luz indirecta y riego moderado, sombra, 49000
+10, Peperomia, riego moderado y luz indirecta, sombra, 31500
+849, isa, agua y tierra, sombra, 10000
+589, hola, nada, sombra, 20000
+236, sara, sol, sombra, 30000
+457, venus, ninguno, sombra, 50000
+284, aaa, nada, sombra, 1000
+761, ssss, n, solar, 2000
+402, www, uuu, solar, 3000
+893, rrr, q, sombra, 500

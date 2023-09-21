@@ -1,0 +1,10 @@
+1, Maceta de barro, Barro, Pequeña, 5000 
+2, Maceta de plástico, Plástico, Mediana, 8000 
+3, Maceta de cerámica, Cerámica, Grande, 12000 
+4, Maceta de madera, Madera, Mediana, 15000 
+5, Maceta de metal, Metal, Pequeña, 10000 
+6, Maceta de cemento, Cemento, Grande, 18000 
+7, Maceta de mimbre, Mimbre, Mediana, 14000
+8, Maceta de vidrio, Vidrio, Pequeña, 7000 
+9, Maceta de plástico reciclado, Plástico reciclado, Grande, 9000 
+10, Maceta de terracota, Terracota, Mediana, 11000
